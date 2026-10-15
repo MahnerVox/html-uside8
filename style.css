@@ -524,7 +524,7 @@ body {
   background-color: rgba(104, 213, 133, 1);
   position: absolute;
   z-index: 1;
-  top: 92px;
+  margin-top: 92px;
   left: -37px;
 }
 .reasons-content{
